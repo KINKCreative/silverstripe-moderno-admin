@@ -1,3 +1,11 @@
+---
+Name: moderno
+After:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+
 LeftAndMain:
   extra_requirements_javascript:
     - moderno-admin/javascript/moderno.js
